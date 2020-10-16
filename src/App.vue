@@ -2,7 +2,7 @@
   <div id="app">
     <h1 class="ui header"> Listagem</h1>
     <p>
-      Exemplo de exibição dos dados da <a href="https://github.com/jeysonlr/laminas-mezzio-geoNames" target="_blank">Laminas-Mezzio API</a>
+      Exemplo de exibição dos dados da <a href="https://github.com/jeysonlr/laminas-mezzio-api" target="_blank">Laminas-Mezzio API</a>
       <span class="ui icon" data-tooltip="Obs: token usado nesse exemplo é e0f66c28-f348-4304-9609-3169f0cd07cf">
       <i class="info icon"></i>
     </span>

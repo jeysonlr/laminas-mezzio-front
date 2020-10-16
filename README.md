@@ -1,7 +1,7 @@
 Laminas-Mezzio API Example
 =================================================
 
-This project has a simple Vue.JS code that consumes the REST API [Laminas-Mezzio API](https://github.com/jeysonlr/laminas-mezzio-geoNames).
+This project has a simple Vue.JS code that consumes the REST API [Laminas-Mezzio API](https://github.com/jeysonlr/laminas-mezzio-api).
 
 It was already compiled using a read-only api key. Its resulting files are placed in `/dist` folder.
 
