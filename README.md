@@ -18,3 +18,8 @@ npm install
 ```
 npm run serve
 ```
+
+### email
+``
+jeysonlr@gmail.com
+``
