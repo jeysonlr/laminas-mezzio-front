@@ -5,13 +5,12 @@ This project has a simple Vue.JS code that consumes the REST API [Laminas-Mezzio
 
 It was already compiled using a read-only api key. Its resulting files are placed in `/dist` folder.
 
-## Running the project
-Option 1:
+## Run at 
 ```
-php -S 0.0.0.0:8081 -t dist/
+http://localhost:8081/
 ```
 
-Option 2:
+## Running the project
 ```
 npm install 
 or 
@@ -22,11 +21,6 @@ yarn
 npm run serve
 or
 yarn run serve
-```
-
-## Run at 
-```
-http://localhost:8081/
 ```
 
 ### email
