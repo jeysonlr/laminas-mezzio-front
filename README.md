@@ -13,10 +13,20 @@ php -S 0.0.0.0:8081 -t dist/
 
 Option 2:
 ```
-npm install
+npm install 
+or 
+yarn
 ```
+### Run
 ```
 npm run serve
+or
+yarn run serve
+```
+
+## Run at 
+```
+http://localhost:8081/
 ```
 
 ### email
